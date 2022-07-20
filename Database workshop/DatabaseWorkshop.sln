@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseWorkshop", "Database workshop\DatabaseWorkshop.csproj", "{8D2E52B4-C655-4480-828B-1C6B69C3E362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2E52B4-C655-4480-828B-1C6B69C3E362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2E52B4-C655-4480-828B-1C6B69C3E362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2E52B4-C655-4480-828B-1C6B69C3E362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2E52B4-C655-4480-828B-1C6B69C3E362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D90901-A944-4BEA-A29B-38E88F5B3440}
+	EndGlobalSection
+EndGlobal
